@@ -1,4 +1,3 @@
-```markdown
 # AI Background Remover with Upscale Enhancement - DelphiFMX Python GUI
 
 This project provides a graphical user interface (GUI) for removing backgrounds from images and enhancing them using AI through the [Replicate API](https://replicate.com). The GUI is built using DelphiFMX for Python, offering a simple and intuitive way for users to upload images and receive background-removed, upscaled versions. The app runs background processes without blocking the user interface.
@@ -95,6 +94,4 @@ This project is licensed under the MIT License.
 
 - [Replicate API](https://replicate.com)
 - [DelphiFMX for Python](https://github.com/Embarcadero/PythonFMX)
-```
-
 This README provides a comprehensive overview of your project, explaining how to install, use, and contribute to it while also including code snippets to give users a quick understanding of its core functionality.
