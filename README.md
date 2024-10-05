@@ -8,6 +8,12 @@ This project provides a graphical user interface (GUI) for removing backgrounds 
 - **Status Updates**: Real-time status updates on the processing of the image.
 - **Background Processing**: Image processing runs in the background to keep the UI responsive.
 
+## Screenshot
+
+Below is a screenshot of the GUI in action:
+
+![App Screenshot](./screenshot.png)
+
 ## Prerequisites
 - Python 3.7 or higher
 - [Replicate API Token](https://replicate.com/docs/get-started) (you need to set this up and add it to your environment variables)
